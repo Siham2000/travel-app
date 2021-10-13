@@ -17,7 +17,7 @@
 
 
 ## Description
-The travel-app is a project that enables users to check the weather of the city they want to visit and choose the date of departure and return when the user clicks on GO, there is a big work based on three APIs the first of which is **Geonames** which gives us information that helps us deal with the second APIs which are  **Weatherbit** and if the duration of that trip is more than 7 days, it will return different information using the current weather on the other hand if more than 7 it will return a forecast with additional information and the card shows a picture that we fetch using the last API **Pixabay** the picture related to the city and more details and users can add a trip, remove the trip and print the card and for the count down part shows the user how much time left to go.
+The travel-app is a project that enables users to check the weather of the city they want to visit and choose the date of departure and return when the user clicks on GO, there is a big work based on three APIs the first of which is **Geonames** which gives us information that helps us deal with the second APIs which are  **Weatherbit** and if the duration of that trip is less than 7 days, it will return different information using the current weather on the other hand if more than 7 it will return a forecast with additional information and the card shows a picture that we fetch using the last API **Pixabay** the picture related to the city and more details and users can add a trip, remove the trip and print the card and for the count down part shows the user how much time left to go.
 
 
 --- 
